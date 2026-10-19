@@ -1,0 +1,10 @@
+id,name_or_group,role,category,interest,influence,interest_level,expectation
+S01,Head of the IT department,Sponsor,sponsor,High,High,High,Approve budget, ensure alignment with department strategy
+S02,Dr. Alice Smith,Project manager (supervising lecturer),pm,High,High,High,Lead project, coordinate team, ensure deliverables meet criteria
+S03,Backend Developer Team,Developers,team,Medium,High,Medium,Implement backend services, APIs, ensure security
+S04,Frontend Developer Team,Developers,team,Medium,High,Medium,Create UI/UX, responsive design, ensure usability
+S05,DevOps Engineer,Operations,team,Medium,High,Medium,Set up CI/CD pipeline, manage deployment, ensure uptime
+S06,QA Tester,Tester,team,High,Medium,High,Define test cases, perform testing, ensure quality
+S07,Pilot Students (50),End users,user,High,Low,High,Participate in pilot, provide feedback on usability
+S08,IT Operations (Admin),System admin,operations,Medium,High,Medium,Handle password resets, restarts, monitoring after go-live
+S09,Data Protection Officer,Compliance,governance,High,High,High,Ensure privacy compliance, data handling policies
