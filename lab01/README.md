@@ -4,7 +4,7 @@
 |---------|---------------------------|
 | Version | 0.2                       |
 | Date    | 2026-10-19                |
-| Author  | Your Name (eangm)         |
+| Author  | Mengly (eangm)         |
 | Status  | Draft (ready for review) |
 
 ## Files
